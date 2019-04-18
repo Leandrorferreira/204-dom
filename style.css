@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+}
+
+img{
+    width: 100px;
+    margin-bottom: 15px;
+  
+}
+
+#dar {
+    height: 50px;
+    width: 200px;
+    background-color: rgb(48, 160, 48);
+    border: 0;
+    color: white;
+    font-size: 20pt;
+    font-family: 'PT Sans', sans-serif;
+    margin-bottom: 15px;
+}
+
+#esquecer {
+    display: none;
+    height: 50px;
+    width: 200px;
+    background-color: rgb(170, 7, 7);
+    border: 0;
+    color: white;
+    font-size: 15pt;
+    font-family: 'PT Sans', sans-serif;
+    margin-bottom: 15px;
+}
+
+h2{
+      font-size: 20pt;
+    font-family: 'PT Sans', sans-serif;
+}
+
